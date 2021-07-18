@@ -1,0 +1,69 @@
+body
+{
+    background-color: tomato;
+    font-family: 'Uchen', serif;
+    color:teal;
+}
+
+.test_result_and_image
+{
+    width: 400px;
+    margin-top: 50px;
+    padding-top: 10px;
+    height: px;
+    background-color: thistle;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px yellow;
+    
+}
+.img_div_dont
+{
+    margin-top: -5px;   
+}
+
+img
+{
+    height: 350px;
+    width: 250px;
+    border-radius: 15px;
+   
+    margin-bottom: 20px;
+}
+
+.b
+{
+    height: 150px;
+    width: 200;
+}
+
+.bob3
+{
+    background-color:yellow;
+    width: 350px;
+    height: 100px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.main_result
+{
+    background-color:skyblue;
+    margin-top: 200px;
+    margin-bottom: 70px;
+    width: 1000px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 15px;
+    color: royalblue;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: tomato;
+    bottom: 0;
+    width: 100%;
+    background-color:cyan;
+    line-height: 3;
+    text-align: center;
+ }
